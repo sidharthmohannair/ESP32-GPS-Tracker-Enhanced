@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-ESP32-brightgreen)
 ![GPS](https://img.shields.io/badge/GPS-uBlox-yellow)
 
-![GPS coneected to ESP32 outdoor test setup]()
+![GPS coneected to ESP32 outdoor test setup](/ESP32-GPS-Tracker-Enhanced/images/test_setup.jpg)
 
 ## Overview
 
@@ -38,6 +38,8 @@ ESP32 GPS Tracker Enhanced is a professional-grade GPS tracking firmware tailore
 - Required libraries pre-installed
 
 ### Wiring Setup
+
+![GPS coneected to ESP32 outdoor test setup](/ESP32-GPS-Tracker-Enhanced/images/connection_diagram.png)
 
 | GPS Module Pin | ESP32 Pin |
 |----------------|-----------|
