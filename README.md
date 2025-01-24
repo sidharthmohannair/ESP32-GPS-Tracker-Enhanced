@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-ESP32-brightgreen)
 ![GPS](https://img.shields.io/badge/GPS-uBlox-yellow)
 
-![GPS coneected to ESP32 outdoor test setup](/ESP32-GPS-Tracker-Enhanced/images/test_setup.jpg)
+![GPS coneected to ESP32 outdoor test setup](/images/test_setup.jpg)
 
 ## Overview
 
@@ -30,7 +30,7 @@ ESP32 GPS Tracker Enhanced is a professional-grade GPS tracking firmware tailore
 
 #### Hardware
 - ESP32 microcontroller
-- uBlox GPS module (or any NMEA-compatible GPS receiver)
+- uBlox 7m GPS module (or any NMEA-compatible GPS receiver)
 
 #### Software
 - Arduino IDE or PlatformIO
@@ -39,7 +39,7 @@ ESP32 GPS Tracker Enhanced is a professional-grade GPS tracking firmware tailore
 
 ### Wiring Setup
 
-![GPS coneected to ESP32 outdoor test setup](/ESP32-GPS-Tracker-Enhanced/images/connection_diagram.png)
+![Wiring setup of ESP32 with GPS](/images/connection_diagram.png)
 
 | GPS Module Pin | ESP32 Pin |
 |----------------|-----------|
